@@ -1,0 +1,14 @@
+name: random_plugin
+version: 1
+author: FLYLX
+main: org.flylx.randevent.Main
+commands:
+  rd:
+#    description: This is a shape command.
+#    usage: /<command> [item_id] [position] [radius] [t/f] [c/s]
+#    permission: shapeplugin.basic
+#    permission-message: You don't have <permission>
+
+#permissions:
+#  shapeplugin.*:
+#    default: op

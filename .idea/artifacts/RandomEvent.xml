@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RandomEvent">
+    <output-path>$PROJECT_DIR$/out/artifacts/out</output-path>
+    <root id="archive" name="RandomEvent.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="RandEvent_Plugin" />
+    </root>
+  </artifact>
+</component>
